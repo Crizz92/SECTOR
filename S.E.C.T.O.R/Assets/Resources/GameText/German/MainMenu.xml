@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<Root>
+  <Text name="Play">Spielen</Text>
+  <Text name="Settings">Options</Text>
+  <Text name="Credits">Anerkennung</Text>
+  <Text name="Exit">Verlassen</Text>
+  <Text name="Back">Hinten</Text>
+  <Text name="Solo">Solo</Text>
+  <Text name="Cooperation">Mitarbeit</Text>
+  <Text name="Online">Online</Text>
+  <Text name="Search">Suchen</Text>
+  <Text name="Save">Aufheben</Text>
+  <Text name="Continue">Weitermachen</Text>
+  <Text name="Chapter1">Kapitel 1</Text>
+  <Text name="Chapter2">Kapitel 2</Text>
+  <Text name="Chapter3">Kapitel 3</Text>
+  <Text name="Chapter4">Kapitel 4</Text>
+  <Text name="SwitchDrone">Austauschen drohne</Text>
+  <Text name="NoConnection">Wir haben nicht in der lag gewesen, mit dem server zu verbinden. Uberprufen sie ihre internetverbindung.</Text>
+  <Text name="Searching">Wir suchen einen partner. Bitte warten...</Text>
+</Root>

@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 47ebbaad4a5fef849ac8a7ba3713bc02
+timeCreated: 1485014726
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Decals2_0
+    21300002: Decals2_1
+    21300004: Decals2_2
+    21300006: Decals2_3
+    21300008: Decals2_4
+    21300010: Decals2_5
+    21300012: Decals2_6
+    21300014: Decals2_7
+    21300016: Decals2_8
+    21300018: Decals2_9
+    21300020: Decals2_10
+    21300022: Decals2_11
+    21300024: Decals2_12
+    21300026: Decals2_13
+    21300028: Decals2_14
+    21300030: Decals2_15
+    21300032: Decals2_16
+    21300034: Decals2_17
+    21300036: Decals2_18
+    21300038: Decals2_19
+    21300040: Decals2_20
+    21300042: Decals2_21
+    21300044: Decals2_22
+    21300046: Decals2_23
+    21300048: Decals2_24
+    21300050: Decals2_25
+    21300052: Decals2_26
+    21300054: Decals2_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Decals2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 475
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 427
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 428
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_3
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 0
+        width: 349
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_4
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 365
+        height: 865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_5
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 232
+        width: 339
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_6
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 249
+        width: 499
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 206
+        width: 414
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 403
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 483
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 483
+        width: 495
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_11
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 404
+        width: 334
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_12
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 599
+        width: 452
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_13
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 541
+        width: 224
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_14
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 798
+        width: 293
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 763
+        width: 308
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 758
+        width: 242
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 749
+        width: 249
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 288
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 974
+        width: 255
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1205
+        width: 326
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 979
+        width: 363
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_23
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 980
+        width: 223
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_24
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 992
+        width: 240
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_25
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1311
+        width: 418
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_26
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1420
+        width: 352
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Decals2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1349
+        width: 512
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

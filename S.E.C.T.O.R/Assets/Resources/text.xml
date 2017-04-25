@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<LevelInformations>
+	<Message>
+		<Name>MyFirstMessage</Name>
+		<Text>My first text is here</Text>
+	</Message>
+	<Message>
+		<Name>MySecondMessage</Name>
+		<Text>My second text is here</Text>
+	</Message>
+</LevelInformations>

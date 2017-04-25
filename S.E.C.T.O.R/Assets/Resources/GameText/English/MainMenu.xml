@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<Root>
+  <Text name="Play">Play</Text>
+  <Text name="Settings">Settings</Text>
+  <Text name="Credits">Credits</Text>
+  <Text name="Exit">Exit</Text>
+  <Text name="Back">Back</Text>
+  <Text name="Solo">Solo</Text>
+  <Text name="Cooperation">Cooperation</Text>
+  <Text name="Online">Online</Text>
+  <Text name="Search">Search</Text>
+  <Text name="Save">Save</Text>
+  <Text name="Continue">Continue</Text>
+  <Text name="Chapter1">Chapter 1</Text>
+  <Text name="Chapter2">Chapter 2</Text>
+  <Text name="Chapter3">Chapter 3</Text>
+  <Text name="Chapter4">Chapter 4</Text>
+  <Text name="SwitchDrone">Switch drone</Text>
+  <Text name="NoConnection">Could not connect to the server. Check your connection.</Text>
+  <Text name="Searching">Searching for a partner. Please wait...</Text>
+</Root>

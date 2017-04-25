@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 92c0328305eaefc499ae976e15226be3
+timeCreated: 1479040545
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ground
+    100004: Lift 1
+    100006: Passerelles
+    100008: Passerelles1
+    100010: Passerelles2
+    100012: Passerelles3
+    100014: Passerelles4
+    100016: Stairs
+    100018: Walls
+    100020: Walls1
+    100022: Walls2
+    100024: Blocker1
+    100026: Blocker2
+    100028: Blocker3
+    100030: Blocker4
+    100032: Door1
+    100034: Door2
+    100036: Footbridge
+    100038: Walls_Stairs
+    100040: FootBrigde
+    100042: Lamp
+    100044: Lift
+    100046: Lamp1
+    100048: black
+    100050: FootBridge
+    100052: Glass1
+    100054: grid
+    100056: grid 1
+    100058: grid 2
+    100060: Ground 1
+    100062: Lift 2
+    100064: LiftElements
+    100066: line
+    100068: line 1
+    100070: line 2
+    100072: Walls 1
+    100074: Walls 2
+    100076: Walls 3
+    400000: //RootNode
+    400002: Ground
+    400004: Lift 1
+    400006: Passerelles
+    400008: Passerelles1
+    400010: Passerelles2
+    400012: Passerelles3
+    400014: Passerelles4
+    400016: Stairs
+    400018: Walls
+    400020: Walls1
+    400022: Walls2
+    400024: Blocker1
+    400026: Blocker2
+    400028: Blocker3
+    400030: Blocker4
+    400032: Door1
+    400034: Door2
+    400036: Footbridge
+    400038: Walls_Stairs
+    400040: FootBrigde
+    400042: Lamp
+    400044: Lift
+    400046: Lamp1
+    400048: black
+    400050: FootBridge
+    400052: Glass1
+    400054: grid
+    400056: grid 1
+    400058: grid 2
+    400060: Ground 1
+    400062: Lift 2
+    400064: LiftElements
+    400066: line
+    400068: line 1
+    400070: line 2
+    400072: Walls 1
+    400074: Walls 2
+    400076: Walls 3
+    2300000: Ground
+    2300002: Lift 1
+    2300004: Passerelles1
+    2300006: Passerelles2
+    2300008: Passerelles3
+    2300010: Passerelles4
+    2300012: Stairs
+    2300014: Walls
+    2300016: Walls1
+    2300018: Walls2
+    2300020: Blocker1
+    2300022: Blocker2
+    2300024: Blocker3
+    2300026: Blocker4
+    2300028: Door1
+    2300030: Door2
+    2300032: Footbridge
+    2300034: Walls_Stairs
+    2300036: FootBrigde
+    2300038: Lamp
+    2300040: Lamp1
+    2300042: black
+    2300044: FootBridge
+    2300046: Glass1
+    2300048: grid
+    2300050: grid 1
+    2300052: grid 2
+    2300054: Ground 1
+    2300056: Lift 2
+    2300058: LiftElements
+    2300060: line
+    2300062: line 1
+    2300064: line 2
+    2300066: Walls 1
+    2300068: Walls 2
+    2300070: Walls 3
+    3300000: Ground
+    3300002: Lift 1
+    3300004: Passerelles1
+    3300006: Passerelles2
+    3300008: Passerelles3
+    3300010: Passerelles4
+    3300012: Stairs
+    3300014: Walls
+    3300016: Walls1
+    3300018: Walls2
+    3300020: Blocker1
+    3300022: Blocker2
+    3300024: Blocker3
+    3300026: Blocker4
+    3300028: Door1
+    3300030: Door2
+    3300032: Footbridge
+    3300034: Walls_Stairs
+    3300036: FootBrigde
+    3300038: Lamp
+    3300040: Lamp1
+    3300042: black
+    3300044: FootBridge
+    3300046: Glass1
+    3300048: grid
+    3300050: grid 1
+    3300052: grid 2
+    3300054: Ground 1
+    3300056: Lift 2
+    3300058: LiftElements
+    3300060: line
+    3300062: line 1
+    3300064: line 2
+    3300066: Walls 1
+    3300068: Walls 2
+    3300070: Walls 3
+    4300000: Walls
+    4300002: Walls1
+    4300004: Walls2
+    4300006: Stairs
+    4300008: Lift
+    4300010: Passerelles1
+    4300012: Passerelles2
+    4300014: Passerelles3
+    4300016: Passerelles4
+    4300018: Ground
+    4300020: Door1
+    4300022: Door2
+    4300024: Footbridge
+    4300026: Walls_Stairs
+    4300028: Blocker1
+    4300030: Blocker2
+    4300032: Blocker3
+    4300034: Blocker4
+    4300036: Lamp
+    4300038: FootBrigde
+    4300040: Lamp1
+    4300042: FootBridge
+    4300044: grid
+    4300046: line
+    4300048: Walls
+    4300050: line
+    4300052: LiftElements
+    4300054: line
+    4300056: black
+    4300058: grid
+    4300060: Walls
+    4300062: Glass1
+    4300064: Ground
+    4300066: grid
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

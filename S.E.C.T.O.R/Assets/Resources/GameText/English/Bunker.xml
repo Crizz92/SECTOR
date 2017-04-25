@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<Root>
+  <Text name="TrainingRoom1">I think this is the training room.</Text>
+  <Text name="TrainingRoom2">Let's see if we can find something here.</Text>
+  <Text name="TrainingRoom3">I remember this place for so long.</Text>
+  <Text name="DroneInitialization">P11 and P12 protocole initalization...</Text>
+  <Text name="DroneTryMovement">Check your hardware and move around to verify your system.</Text>
+  <Text name="OpenFirstRoom">Well... Everything seems fine, get out of here and go to the complex!</Text>
+  <Text name="StopWater">Stop there!</Text>
+  <Text name="WaterDangerous">You are not able to go in the water. It will damage your hardware.</Text>
+  <Text name="ArmyTryOpenPumpDoor">Seems the pump station door is blocked for some reason.</Text>
+  <Text name="FindSolution">Find another solution fast! Try to reactivate the elecricity first and come back to see if it's solved the problem</Text>
+  <Text name="PumpDoorClosed">The door is still closed.</Text>
+  <Text name="GoToTechnicalRoom">Find the technical room which manage each door and open them all.</Text>
+  <Text name="LiftBlocking">The lift is blocking the way...</Text>
+  <Text name="FindWayToPassLift">Find a way to pass, check around to see if something can help you.</Text>
+  <Text name="LaserActivation">I think we got a problem... I have activated the security laser and i'm not able to stop them...</Text>
+  <Text name="EscapeLaser">We need to leave fast if we don't want to be cooked!</Text>
+  <Text name="WaterLeaving">The pump works! The water go out.</Text>
+  <Text name="LeaveBunker">Let's leave the bunker, i feel like in jail.</Text>
+  <Text name="RestComplexJoke">I hope the rest of the complexe is better and full of sexy drones.</Text>
+  <Text name="SolitudeProblem">Calm down your system, we are not here to resolve your solitude problem!</Text>
+</Root>

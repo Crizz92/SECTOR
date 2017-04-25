@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: d8724154ab11dbc419da1d282fed98f6
+timeCreated: 1476556859
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BatteryLeft
+    100002: BatteryRight
+    100004: BatteryRoot
+    100006: BR1
+    100008: BR1 1
+    100010: BR2
+    100012: BR2 1
+    100014: BR3
+    100016: BR3 1
+    100018: BR4
+    100020: BR4 1
+    100022: BR5
+    100024: BR5 1
+    100026: BR6
+    100028: BR6 1
+    100030: BR7
+    100032: BR7 1
+    100034: BR8
+    100036: BR8 1
+    100038: Drone12
+    100040: DroneMaster
+    100042: //RootNode
+    100044: Fan
+    100046: FanRoot
+    100048: Head
+    100050: Head 1
+    100052: Head 10
+    100054: Head 11
+    100056: Head 12
+    100058: Head 13
+    100060: Head 14
+    100062: Head 15
+    100064: Head 2
+    100066: Head 3
+    100068: Head 4
+    100070: Head 5
+    100072: Head 6
+    100074: Head 7
+    100076: Head 8
+    100078: Head 9
+    100080: Head8
+    100082: Head8 1
+    100084: Head8 10
+    100086: Head8 11
+    100088: Head8 12
+    100090: Head8 13
+    100092: Head8 14
+    100094: Head8 15
+    100096: Head8 2
+    100098: Head8 3
+    100100: Head8 4
+    100102: Head8 5
+    100104: Head8 6
+    100106: Head8 7
+    100108: Head8 8
+    100110: Head8 9
+    100112: P1
+    100114: P1 1
+    100116: P2
+    100118: P2 1
+    100120: P3
+    100122: P3 1
+    100124: P4
+    100126: P4 1
+    100128: P5
+    100130: P5 1
+    100132: P6
+    100134: P6 1
+    100136: P7
+    100138: P7 1
+    100140: P8
+    100142: P8 1
+    100144: PannelLeft
+    100146: PannelRight
+    100148: PannelRoot
+    100150: RootD12
+    100152: ShockWaveLeft
+    100154: ShockWavePulseRoot
+    100156: ShockWaveRight
+    100158: SWPL
+    100160: SWPR
+    400000: BatteryLeft
+    400002: BatteryRight
+    400004: BatteryRoot
+    400006: BR1
+    400008: BR1 1
+    400010: BR2
+    400012: BR2 1
+    400014: BR3
+    400016: BR3 1
+    400018: BR4
+    400020: BR4 1
+    400022: BR5
+    400024: BR5 1
+    400026: BR6
+    400028: BR6 1
+    400030: BR7
+    400032: BR7 1
+    400034: BR8
+    400036: BR8 1
+    400038: Drone12
+    400040: DroneMaster
+    400042: //RootNode
+    400044: Fan
+    400046: FanRoot
+    400048: Head
+    400050: Head 1
+    400052: Head 10
+    400054: Head 11
+    400056: Head 12
+    400058: Head 13
+    400060: Head 14
+    400062: Head 15
+    400064: Head 2
+    400066: Head 3
+    400068: Head 4
+    400070: Head 5
+    400072: Head 6
+    400074: Head 7
+    400076: Head 8
+    400078: Head 9
+    400080: Head8
+    400082: Head8 1
+    400084: Head8 10
+    400086: Head8 11
+    400088: Head8 12
+    400090: Head8 13
+    400092: Head8 14
+    400094: Head8 15
+    400096: Head8 2
+    400098: Head8 3
+    400100: Head8 4
+    400102: Head8 5
+    400104: Head8 6
+    400106: Head8 7
+    400108: Head8 8
+    400110: Head8 9
+    400112: P1
+    400114: P1 1
+    400116: P2
+    400118: P2 1
+    400120: P3
+    400122: P3 1
+    400124: P4
+    400126: P4 1
+    400128: P5
+    400130: P5 1
+    400132: P6
+    400134: P6 1
+    400136: P7
+    400138: P7 1
+    400140: P8
+    400142: P8 1
+    400144: PannelLeft
+    400146: PannelRight
+    400148: PannelRoot
+    400150: RootD12
+    400152: ShockWaveLeft
+    400154: ShockWavePulseRoot
+    400156: ShockWaveRight
+    400158: SWPL
+    400160: SWPR
+    4300000: Drone12
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Drone12
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

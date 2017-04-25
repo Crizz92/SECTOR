@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<Root>
+  <Text name="TrainingRoom1">Je pense que c'est la zone d'entrainement.</Text>
+  <Text name="TrainingRoom2">Regardons si nous pouvons trouver quelque chose ici.</Text>
+  <Text name="TrainingRoom3">Je me rappelle cette endroit depuis si longtemps.</Text>
+  <Text name="DroneInitialization">Initialisation du protocole P11 et P12.</Text>
+  <Text name="DroneTryMovement">Tester votre matériel en bougeant au alentour.</Text>
+  <Text name="OpenFirstRoom">Bon... Tout à l'air ok, sortez d'ici et allez au complexe!</Text>
+  <Text name="StopWater">Arrêtez-vous!</Text>
+  <Text name="WaterDangerous">Vous n'êtes pas capable d'aller dans l'eau. Vous allez abîmer votre matériel.</Text>
+  <Text name="ArmyTryOpenPumpDoor">Nous n'arrivons pas à ouvrir la porte de la station de pompage...</Text>
+  <Text name="FindSolution">Trouvez vite une autre solution!Essayez d'abord de réactiver l'électricité et revenez voir si ça à résolu le problème.</Text>
+  <Text name="PumpDoorClosed">La porte est toujours fermée...</Text>
+  <Text name="GoToTechnicalRoom">Trouvez le local technique qui permet de gérer les portes et ouvrez les toutes.</Text>
+  <Text name="LiftBlocking">L'ascenseur bloque le chemin...</Text>
+  <Text name="FindWayToPassLift">Trouvez un moyen de passer, chercher dans les alentours une solution.</Text>
+  <Text name="LaserActivation">Je crois qu'on a un problème... J'ai activer les lasers de défense et je n'arrive pas à les arrêter...</Text>
+  <Text name="EscapeLaser">Partons avant de finir en cendre!!!</Text>
+  <Text name="WaterLeaving">La pompe fonctionne! L'eau s'en va.</Text>
+  <Text name="LeaveBunker">Quittons ce bunker, je me sens comme en prison.</Text>
+  <Text name="RestComplexJoke">J'espère que le reste du complexe est mieux et plein de drones sexy!</Text>
+  <Text name="SolitudeProblem">Calme tes systèmes... On est pas ici pourr résoudre tes problèmes de solitude!</Text>
+</Root>

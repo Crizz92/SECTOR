@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 4df8413aa34eedc4db7d9566d2072c23
+timeCreated: 1481914816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackLegLeft
+    100002: BackLegLeft 1
+    100004: BackLegRight
+    100006: BackLegRight 1
+    100008: FrontLegLeft
+    100010: FrontLegLeft 1
+    100012: FrontLegRight
+    100014: FrontLegRight 1
+    100016: Head
+    100018: joint3
+    100020: joint4
+    100022: Queue
+    100024: Queue1
+    100026: Queue2
+    100028: Queue3
+    100030: Queue4
+    100032: QueueOne
+    100034: QueueThree
+    100036: QueueTwo
+    100038: //RootNode
+    100040: Rats
+    100042: Root
+    100044: RootMaster
+    100046: Rug
+    100048: To_Head
+    100050: ToQueue
+    100052: transform1
+    100054: transform10
+    100056: transform2
+    100058: transform3
+    100060: transform4
+    100062: transform5
+    100064: transform6
+    100066: transform7
+    100068: transform8
+    100070: transform9
+    400000: BackLegLeft
+    400002: BackLegLeft 1
+    400004: BackLegRight
+    400006: BackLegRight 1
+    400008: FrontLegLeft
+    400010: FrontLegLeft 1
+    400012: FrontLegRight
+    400014: FrontLegRight 1
+    400016: Head
+    400018: joint3
+    400020: joint4
+    400022: Queue
+    400024: Queue1
+    400026: Queue2
+    400028: Queue3
+    400030: Queue4
+    400032: QueueOne
+    400034: QueueThree
+    400036: QueueTwo
+    400038: //RootNode
+    400040: Rats
+    400042: Root
+    400044: RootMaster
+    400046: Rug
+    400048: To_Head
+    400050: ToQueue
+    400052: transform1
+    400054: transform10
+    400056: transform2
+    400058: transform3
+    400060: transform4
+    400062: transform5
+    400064: transform6
+    400066: transform7
+    400068: transform8
+    400070: transform9
+    4300000: Rats
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rats
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

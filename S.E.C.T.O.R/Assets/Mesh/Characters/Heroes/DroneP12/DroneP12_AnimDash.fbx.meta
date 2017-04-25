@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: b8fea1217eed5284ab5aa52482723edc
+timeCreated: 1481796959
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BodyOneMaster
+    100002: BodyPartOne
+    100004: BodyPartTwo
+    100006: BodyTwoMaster
+    100008: DashShock
+    100010: DashShock1
+    100012: DashShock1 1
+    100014: DashShock2
+    100016: DashShock2 1
+    100018: DashShock3
+    100020: DroneP12
+    100022: //RootNode
+    100024: Head
+    100026: HeadMaster
+    100028: Lampe
+    100030: Lampe 1
+    100032: PannelOne
+    100034: PannelOne 1
+    100036: PannelThree
+    100038: PannelThree 1
+    100040: PannelTwo
+    100042: PannelTwo 1
+    100044: RingCore
+    100046: RingOne
+    100048: RingThree
+    100050: RingTwo
+    100052: Root
+    100054: RootMaster
+    100056: ShieldOne
+    100058: ShieldThree
+    100060: ShieldTwo
+    100062: PannelMasterOne
+    100064: PannelMasterTwo
+    100066: SheildMaster
+    100068: DashShock 1
+    100070: DashShock3 1
+    400000: BodyOneMaster
+    400002: BodyPartOne
+    400004: BodyPartTwo
+    400006: BodyTwoMaster
+    400008: DashShock
+    400010: DashShock1
+    400012: DashShock1 1
+    400014: DashShock2
+    400016: DashShock2 1
+    400018: DashShock3
+    400020: DroneP12
+    400022: //RootNode
+    400024: Head
+    400026: HeadMaster
+    400028: Lampe
+    400030: Lampe 1
+    400032: PannelOne
+    400034: PannelOne 1
+    400036: PannelThree
+    400038: PannelThree 1
+    400040: PannelTwo
+    400042: PannelTwo 1
+    400044: RingCore
+    400046: RingOne
+    400048: RingThree
+    400050: RingTwo
+    400052: Root
+    400054: RootMaster
+    400056: ShieldOne
+    400058: ShieldThree
+    400060: ShieldTwo
+    400062: PannelMasterOne
+    400064: PannelMasterTwo
+    400066: SheildMaster
+    400068: DashShock 1
+    400070: DashShock3 1
+    4300000: DroneP12
+    4300002: Lampe
+    7400000: P12_Dash
+    9500000: //RootNode
+    13700000: DroneP12
+    13700002: Lampe
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: P12_Dash
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneP12
+        weight: 1
+      - path: DroneP12/Lampe
+        weight: 1
+      - path: RootMaster
+        weight: 1
+      - path: RootMaster/HeadMaster
+        weight: 1
+      - path: RootMaster/HeadMaster/DashShock1
+        weight: 1
+      - path: RootMaster/HeadMaster/DashShock1/DashShock
+        weight: 1
+      - path: RootMaster/HeadMaster/DashShock1/DashShock2
+        weight: 1
+      - path: RootMaster/HeadMaster/DashShock1/DashShock2/DashShock1 1
+        weight: 1
+      - path: RootMaster/HeadMaster/DashShock1/DashShock2/DashShock3
+        weight: 1
+      - path: RootMaster/HeadMaster/DashShock1/DashShock2/DashShock3/DashShock2 1
+        weight: 1
+      - path: RootMaster/HeadMaster/Head
+        weight: 1
+      - path: RootMaster/HeadMaster/Head/Lampe 1
+        weight: 1
+      - path: RootMaster/Root
+        weight: 1
+      - path: RootMaster/Root/BodyOneMaster
+        weight: 1
+      - path: RootMaster/Root/BodyOneMaster/BodyPartOne
+        weight: 1
+      - path: RootMaster/Root/BodyOneMaster/BodyPartOne/PannelOne
+        weight: 1
+      - path: RootMaster/Root/BodyOneMaster/BodyPartOne/PannelThree
+        weight: 1
+      - path: RootMaster/Root/BodyOneMaster/BodyPartOne/PannelTwo
+        weight: 1
+      - path: RootMaster/Root/BodyTwoMaster
+        weight: 1
+      - path: RootMaster/Root/BodyTwoMaster/BodyPartTwo
+        weight: 1
+      - path: RootMaster/Root/BodyTwoMaster/BodyPartTwo/PannelOne 1
+        weight: 1
+      - path: RootMaster/Root/BodyTwoMaster/BodyPartTwo/PannelThree 1
+        weight: 1
+      - path: RootMaster/Root/BodyTwoMaster/BodyPartTwo/PannelTwo 1
+        weight: 1
+      - path: RootMaster/Root/RingCore
+        weight: 1
+      - path: RootMaster/Root/RingCore/RingOne
+        weight: 1
+      - path: RootMaster/Root/RingCore/RingThree
+        weight: 1
+      - path: RootMaster/Root/RingCore/RingTwo
+        weight: 1
+      - path: RootMaster/Root/RingCore/ShieldOne
+        weight: 1
+      - path: RootMaster/Root/RingCore/ShieldThree
+        weight: 1
+      - path: RootMaster/Root/RingCore/ShieldTwo
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

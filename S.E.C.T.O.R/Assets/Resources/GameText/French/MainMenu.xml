@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<Root>
+		<Text name="Play">Jouer</Text>
+    <Text name="Settings">Options</Text>
+    <Text name="Credtis">Crédits</Text>
+    <Text name="Exit">Quitter</Text>
+    <Text name="Language">Langue</Text>
+    <Text name="Back">Retour</Text>
+    <Text name="Solo">Solo</Text>
+    <Text name="Cooperation">Coopération</Text>
+    <Text name="Online">En ligne</Text>
+    <Text name="Search">Chercher</Text>
+    <Text name="Save">Sauvegarder</Text>
+    <Text name="Continue">Continuer</Text>
+    <Text name="Chapter1">Chapitre 1</Text>
+    <Text name="Chapter2">Chapitre 2</Text>
+    <Text name="Chapter3">Chapitre 3</Text>
+    <Text name="Chapter4">Chapitre 4</Text>
+    <Text name="SwitchDrone">Changer de drone</Text>
+    <Text name="NoConnection">Nous n'avons pas pu nous connecter au serveur. Veuillez vérifier votre connexion internet...</Text>
+    <Text name="Searching">Nous recherchons un partenaire. Veuillez attendre s'il vous plaît...</Text>
+</Root>

@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 7fd5ff88481dac7478e95875600a2fa6
+timeCreated: 1487857713
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BodyOneMaster
+    100002: BodyPartOne
+    100004: BodyPartTwo
+    100006: BodyTwoMaster
+    100008: DashShock
+    100010: DashShock1
+    100012: DashShock1 1
+    100014: DashShock2
+    100016: DashShock2 1
+    100018: DashShock3
+    100020: DroneP12
+    100022: //RootNode
+    100024: Head
+    100026: HeadMaster
+    100028: Lampe
+    100030: Lampe 1
+    100032: PannelMasterOne
+    100034: PannelMasterTwo
+    100036: PannelOne
+    100038: PannelOne 1
+    100040: PannelThree
+    100042: PannelThree 1
+    100044: PannelTwo
+    100046: PannelTwo 1
+    100048: RingCore
+    100050: RingOne
+    100052: RingThree
+    100054: RingTwo
+    100056: Root
+    100058: RootMaster
+    100060: SheildMaster
+    100062: ShieldOne
+    100064: ShieldThree
+    100066: ShieldTwo
+    100068: DashShock 1
+    100070: DashShock3 1
+    400000: BodyOneMaster
+    400002: BodyPartOne
+    400004: BodyPartTwo
+    400006: BodyTwoMaster
+    400008: DashShock
+    400010: DashShock1
+    400012: DashShock1 1
+    400014: DashShock2
+    400016: DashShock2 1
+    400018: DashShock3
+    400020: DroneP12
+    400022: //RootNode
+    400024: Head
+    400026: HeadMaster
+    400028: Lampe
+    400030: Lampe 1
+    400032: PannelMasterOne
+    400034: PannelMasterTwo
+    400036: PannelOne
+    400038: PannelOne 1
+    400040: PannelThree
+    400042: PannelThree 1
+    400044: PannelTwo
+    400046: PannelTwo 1
+    400048: RingCore
+    400050: RingOne
+    400052: RingThree
+    400054: RingTwo
+    400056: Root
+    400058: RootMaster
+    400060: SheildMaster
+    400062: ShieldOne
+    400064: ShieldThree
+    400066: ShieldTwo
+    400068: DashShock 1
+    400070: DashShock3 1
+    4300000: DroneP12
+    4300002: Lampe
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DroneP12
+    13700002: Lampe
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

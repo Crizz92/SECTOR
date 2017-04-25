@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6623549e9707a5e44ab0d6c570bb5673
+timeCreated: 1481796905
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: BodyMaster
+    100004: Drone_P11
+    100006: //RootNode
+    100008: EnergyGenOne
+    100010: EnergyGenThree
+    100012: EnergyGenTwo
+    100014: EnergyRing
+    100016: GraberOne
+    100018: GrabersMaster
+    100020: GrabersOne
+    100022: GrabersThree
+    100024: GrabersTwo
+    100026: GraberThree
+    100028: GraberTwo
+    100030: GrabSupport
+    100032: Head
+    100034: HeadMaster
+    100036: Lampe
+    100038: PannelOne
+    100040: PannelThree
+    100042: PannelTwo
+    100044: Pulse
+    100046: RingOne
+    100048: RingPulse
+    100050: RingThree
+    100052: RingTwo
+    100054: Root
+    100056: RootMaster
+    400000: Body
+    400002: BodyMaster
+    400004: Drone_P11
+    400006: //RootNode
+    400008: EnergyGenOne
+    400010: EnergyGenThree
+    400012: EnergyGenTwo
+    400014: EnergyRing
+    400016: GraberOne
+    400018: GrabersMaster
+    400020: GrabersOne
+    400022: GrabersThree
+    400024: GrabersTwo
+    400026: GraberThree
+    400028: GraberTwo
+    400030: GrabSupport
+    400032: Head
+    400034: HeadMaster
+    400036: Lampe
+    400038: PannelOne
+    400040: PannelThree
+    400042: PannelTwo
+    400044: Pulse
+    400046: RingOne
+    400048: RingPulse
+    400050: RingThree
+    400052: RingTwo
+    400054: Root
+    400056: RootMaster
+    4300000: Drone_P11
+    4300002: Lampe
+    7400000: P11_Idle
+    9500000: //RootNode
+    13700000: Drone_P11
+    13700002: Lampe
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: P11_Idle
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Drone_P11
+        weight: 1
+      - path: Drone_P11/Lampe
+        weight: 1
+      - path: RootMaster
+        weight: 1
+      - path: RootMaster/Root
+        weight: 1
+      - path: RootMaster/Root/BodyMaster
+        weight: 1
+      - path: RootMaster/Root/BodyMaster/Body
+        weight: 1
+      - path: RootMaster/Root/BodyMaster/Body/PannelOne
+        weight: 1
+      - path: RootMaster/Root/BodyMaster/Body/PannelThree
+        weight: 1
+      - path: RootMaster/Root/BodyMaster/Body/PannelTwo
+        weight: 1
+      - path: RootMaster/Root/EnergyRing
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/EnergyGenOne
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/EnergyGenThree
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/EnergyGenTwo
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster/GrabersOne
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster/GrabersOne/GraberOne
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster/GrabersThree
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster/GrabersThree/GraberThree
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster/GrabersTwo
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/Pulse/RingPulse/GrabSupport/GrabersMaster/GrabersTwo/GraberTwo
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/RingOne
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/RingThree
+        weight: 1
+      - path: RootMaster/Root/EnergyRing/RingTwo
+        weight: 1
+      - path: RootMaster/Root/HeadMaster
+        weight: 1
+      - path: RootMaster/Root/HeadMaster/Head
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

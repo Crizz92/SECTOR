@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 40ab0bb8a4156f34ebd68c691ce4f9e1
+timeCreated: 1479040545
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cable1
+    100004: Cable2
+    100006: Cable3
+    100008: Cable4
+    100010: Cable5
+    100012: Interactive_elements
+    100014: Pales
+    100016: Screen
+    100018: Screen1
+    100020: Screen10
+    100022: Screen11
+    100024: Screen2
+    100026: Screen3
+    100028: Screen4
+    100030: Screen5
+    100032: Screen6
+    100034: Screen7
+    100036: Screen8
+    100038: Screen9
+    100040: Sphere
+    100042: SwitchCable
+    400000: //RootNode
+    400002: Cable1
+    400004: Cable2
+    400006: Cable3
+    400008: Cable4
+    400010: Cable5
+    400012: Interactive_elements
+    400014: Pales
+    400016: Screen
+    400018: Screen1
+    400020: Screen10
+    400022: Screen11
+    400024: Screen2
+    400026: Screen3
+    400028: Screen4
+    400030: Screen5
+    400032: Screen6
+    400034: Screen7
+    400036: Screen8
+    400038: Screen9
+    400040: Sphere
+    400042: SwitchCable
+    2300000: //RootNode
+    2300002: Cable1
+    2300004: Cable2
+    2300006: Cable3
+    2300008: Cable4
+    2300010: Cable5
+    2300012: Pales
+    2300014: Screen1
+    2300016: Screen10
+    2300018: Screen11
+    2300020: Screen2
+    2300022: Screen3
+    2300024: Screen4
+    2300026: Screen5
+    2300028: Screen6
+    2300030: Screen7
+    2300032: Screen8
+    2300034: Screen9
+    2300036: Sphere
+    2300038: SwitchCable
+    3300000: //RootNode
+    3300002: Cable1
+    3300004: Cable2
+    3300006: Cable3
+    3300008: Cable4
+    3300010: Cable5
+    3300012: Pales
+    3300014: Screen1
+    3300016: Screen10
+    3300018: Screen11
+    3300020: Screen2
+    3300022: Screen3
+    3300024: Screen4
+    3300026: Screen5
+    3300028: Screen6
+    3300030: Screen7
+    3300032: Screen8
+    3300034: Screen9
+    3300036: Sphere
+    3300038: SwitchCable
+    4300000: Room1
+    4300002: Pales
+    4300004: SwitchCable
+    4300006: Cable1
+    4300008: Cable2
+    4300010: Cable3
+    4300012: Cable4
+    4300014: Cable5
+    4300016: Sphere
+    4300018: Screen1
+    4300020: Screen2
+    4300022: Screen3
+    4300024: Screen4
+    4300026: Screen5
+    4300028: Screen6
+    4300030: Screen7
+    4300032: Screen8
+    4300034: Screen9
+    4300036: Screen10
+    4300038: Screen11
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
